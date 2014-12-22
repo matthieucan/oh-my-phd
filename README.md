@@ -16,14 +16,17 @@ Tools, hacks, and software for your PhD
 
   * [Project homepage](http://www.latex-project.org)
 
-  * [ShareLatex](https://www.sharelatex.com/) Write and compile LaTeX
+  * [ShareLatex](https://www.sharelatex.com) Write and compile LaTeX
     online
 
   * [OverLeaf](https://www.overleaf.com) Another tool for online LaTeX
   
 * Zotero
   
-  Zotero organises your articles collection.
+  Zotero organises your articles collection. You can then easily tag
+  them, in order to find later what you need to cite.
+
+  * [Project homepage](https://www.zotero.org)
 
 ## Teaching
 
