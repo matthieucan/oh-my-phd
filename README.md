@@ -14,12 +14,12 @@ Tools, hacks, and software for your PhD
   everything you'll need, for example to write complex mathematic
   formulas.
 
-..* [Project page](http://www.latex-project.org)
+  * [Project homepage](http://www.latex-project.org)
 
-..* [ShareLatex](https://www.sharelatex.com/) Write and compile LaTex
+  * [ShareLatex](https://www.sharelatex.com/) Write and compile LaTex
     online
 
-..* [OverLeaf](https://www.overleaf.com) Another tool for online LaTeX
+  * [OverLeaf](https://www.overleaf.com) Another tool for online LaTeX
   
 * Zotero
   
