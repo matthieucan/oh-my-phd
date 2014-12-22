@@ -9,8 +9,17 @@ Tools, hacks, and software for your PhD
 
 * LaTeX
   
-  LaTeX is an obvious tool. It permits to write high-quality articles,
-  while respecting all the needed standards.
+  LaTeX is the de-facto tool to write high-quality scientific
+  articles.  It respects standards and provides packages for almost
+  everything you'll need, for example to write complex mathematic
+  formulas.
+
+..* [Project page](http://www.latex-project.org)
+
+..* [ShareLatex](https://www.sharelatex.com/) Write and compile LaTex
+    online
+
+..* [OverLeaf](https://www.overleaf.com) Another tool for online LaTeX
   
 * Zotero
   
