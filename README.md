@@ -1,7 +1,7 @@
 oh-my-phd
 =========
 
-Tools, hacks, and software for your PhD
+Tools, hacks, and software for your PhD thesis.
 
 ## Productivity
 
