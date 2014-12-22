@@ -16,7 +16,7 @@ Tools, hacks, and software for your PhD
 
   * [Project homepage](http://www.latex-project.org)
 
-  * [ShareLatex](https://www.sharelatex.com/) Write and compile LaTex
+  * [ShareLatex](https://www.sharelatex.com/) Write and compile LaTeX
     online
 
   * [OverLeaf](https://www.overleaf.com) Another tool for online LaTeX
