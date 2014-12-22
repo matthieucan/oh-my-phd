@@ -26,10 +26,10 @@ Tools, hacks, and software for your PhD thesis.
 
   * [Project homepage](http://www.latex-project.org)
 
-  * [ShareLatex](https://www.sharelatex.com) Write and compile LaTeX
+  * [ShareLatex](https://www.sharelatex.com) - Write and compile LaTeX
     online
 
-  * [OverLeaf](https://www.overleaf.com) Another tool for online LaTeX
+  * [OverLeaf](https://www.overleaf.com) - Another tool for online LaTeX
   
 * Zotero
   
