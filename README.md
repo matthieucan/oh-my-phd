@@ -5,6 +5,16 @@ Tools, hacks, and software for your PhD
 
 ## Productivity
 
+* Inbox Zero
+
+  Inbox Zero is a method amongst others to manage your email
+  workflow. If you consider your Inbox being what you actually have on
+  your mind at a certain time, Inbox Zero aims at having a clear view,
+  processing/tagging/archiving your emails as soon as possible in
+  order to be up-to-date.
+
+  * [Blog posts from Merlin Mann](http://www.43folders.com/izero)
+
 ## Researching
 
 * LaTeX
