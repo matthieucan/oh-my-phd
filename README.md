@@ -29,7 +29,11 @@ Tools, hacks, and software for your PhD thesis.
   * [ShareLatex](https://www.sharelatex.com) - Write and compile LaTeX
     online
 
-  * [OverLeaf](https://www.overleaf.com) - Another tool for online LaTeX
+  * [OverLeaf](https://www.overleaf.com) - Another tool for online
+    LaTeX
+
+  * [Beamer](http://www.ctan.org/pkg/beamer) - A package to create
+    LaTeX presentations
   
 * Zotero
   
