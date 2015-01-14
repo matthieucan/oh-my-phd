@@ -49,3 +49,5 @@ Tools, hacks, and software for your PhD thesis.
 ## Blog articles and resources
 
 * [Matt Might, Reading for graduate students](http://matt.might.net/articles/books-papers-materials-for-graduate-students/)
+
+* [Philip Guo, Advice for new Ph.D. students](http://pgbovine.net/early-stage-PhD-advice.htm)
