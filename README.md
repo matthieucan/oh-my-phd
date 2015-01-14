@@ -45,3 +45,7 @@ Tools, hacks, and software for your PhD thesis.
 ## Teaching
 
 ## Traveling/Moving
+
+## Blog articles and resources
+
+* [Matt Might, Reading for graduate students](http://matt.might.net/articles/books-papers-materials-for-graduate-students/)
