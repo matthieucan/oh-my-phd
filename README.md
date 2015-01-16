@@ -42,6 +42,12 @@ Tools, hacks, and software for your PhD thesis.
 
   * [Project homepage](https://www.zotero.org)
 
+* CiteULike
+  
+  CiteULike is a platform to share references.
+  
+  * [Project homepage](http://www.citeulike.org)
+
 ## Teaching
 
 ## Traveling/Moving
