@@ -15,6 +15,14 @@ Tools, hacks, and software for your PhD thesis.
 
   * [Blog posts from Merlin Mann](http://www.43folders.com/izero)
 
+* org-mode
+
+  Org-mode is a tool to write notes, todo lists, keep track of
+  deadlines, and much much more, in an efficient matter. You can
+  e.g. implement GTD (Get Things Done) with org-mode.
+  
+  * [Project homepage](http://orgmode.org)
+
 ## Researching
 
 * LaTeX
