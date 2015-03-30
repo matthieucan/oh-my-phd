@@ -60,8 +60,12 @@ Tools, hacks, and software for your PhD thesis.
 
 ## Traveling/Moving
 
-## Blog articles and resources
+## Blog articles
 
 * [Matt Might, Reading for graduate students](http://matt.might.net/articles/books-papers-materials-for-graduate-students/)
 
 * [Philip Guo, Advice for new Ph.D. students](http://pgbovine.net/early-stage-PhD-advice.htm)
+
+## Resources
+
+* [ACM proceedings templates](http://www.acm.org/sigs/publications/proceedings-templates/)
