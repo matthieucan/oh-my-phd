@@ -55,6 +55,14 @@ Tools, hacks, and software for your PhD thesis.
   CiteULike is a platform to share references.
   
   * [Project homepage](http://www.citeulike.org)
+  
+* Graphics and plots
+  
+  * [matplotlib](http://matplotlib.org) - Python library
+  
+  * [GNUplot](http://www.gnuplot.info)
+  
+  * [plotly](https://plot.ly)
 
 ## Teaching
 
