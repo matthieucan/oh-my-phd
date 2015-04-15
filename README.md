@@ -63,6 +63,8 @@ Tools, hacks, and software for your PhD thesis.
   * [GNUplot](http://www.gnuplot.info)
   
   * [plotly](https://plot.ly)
+  
+  * [tikz](http://www.texample.net/tikz/) - Graphics in LaTeX
 
 ## Teaching
 
