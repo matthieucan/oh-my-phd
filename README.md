@@ -65,6 +65,8 @@ Tools, hacks, and software for your PhD thesis.
   * [plotly](https://plot.ly)
   
   * [tikz](http://www.texample.net/tikz/) - Graphics in LaTeX
+  
+  * [draw.io](http://draw.io/) - Browser-based tools to draw graphics
 
 ## Teaching
 
