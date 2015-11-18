@@ -68,7 +68,7 @@ Tools, hacks, and software for your PhD thesis.
   
   * [draw.io](http://draw.io/) - Browser-based tools to draw graphics
 
-## Reproducible research
+### Reproducible research
   
 * Org-mode (again) permits to write research notebooks, in order to
   document for instance experiments and data analysis. You can embed
@@ -83,7 +83,7 @@ Tools, hacks, and software for your PhD thesis.
   languages. Like with org-mode, you can embed many types of
   interactive data, through a web interface.
   
-  [Project homepage](http://jupyter.org)
+  * [Project homepage](http://jupyter.org)
 
 ## Teaching
 
