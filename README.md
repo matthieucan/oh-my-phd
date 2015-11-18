@@ -23,7 +23,7 @@ Tools, hacks, and software for your PhD thesis.
   
   * [Project homepage](http://orgmode.org)
 
-## Researching
+## Research
 
 * LaTeX
   
@@ -42,7 +42,7 @@ Tools, hacks, and software for your PhD thesis.
 
   * [Beamer](http://www.ctan.org/pkg/beamer) - A package to create
     LaTeX presentations
-  
+
 * Zotero
   
   Zotero organises your articles collection. You can then easily tag
@@ -67,6 +67,23 @@ Tools, hacks, and software for your PhD thesis.
   * [tikz](http://www.texample.net/tikz/) - Graphics in LaTeX
   
   * [draw.io](http://draw.io/) - Browser-based tools to draw graphics
+
+## Reproducible research
+  
+* Org-mode (again) permits to write research notebooks, in order to
+  document for instance experiments and data analysis. You can embed
+  code (and run it interactively), data tables, plots, etc. You can
+  also export your content to many kinds of formats, includinh LaTeX
+  and HTML.
+  
+  * [Project homepage](http://orgmode.org)
+  * [A guide to article writing with org-mode](https://github.com/vikasrawal/orgpaper/blob/master/orgpapers.org)
+  
+* Jupyter is a tool to create notebooks in more than 40 programming
+  languages. Like with org-mode, you can embed many types of
+  interactive data, through a web interface.
+  
+  [Project homepage](http://jupyter.org)
 
 ## Teaching
 
